@@ -1,0 +1,15 @@
+# Illustrative schema for the Data Integrity Layer
+integrity_tags:
+  - name: source_id
+    type: string
+    required: true
+  - name: governance_owner
+    type: string
+    required: true
+  - name: compliance_level
+    type: enum
+    values: ["P1-LOW", "P2-MEDIUM", "P3-HIGH"]
+    default: "P1-LOW"
+  - name: pii_flag
+    type: boolean
+    required: true
