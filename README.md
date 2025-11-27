@@ -1,7 +1,7 @@
 # The Integrity Stack Framework (ISF)
 ## A Conceptual Standard for Eliminating Algorithmic Debt in Enterprise AI
 
-The largest structural obstacle to true Responsible AI is not ethics—it is **Algorithmic Debt**.
+The largest structural obstacle to true Responsible AI is not ethics, it is **Algorithmic Debt**.
 
 **Algorithmic Debt** is defined as the cumulative operational and security risk resulting from managing disparate, un-versioned data pipelines, multi-model CI/CD, and fragmented security patches simultaneously. This debt cripples innovation, leads to unpredictable failures in production (The Black Box Drift), and renders compliance measures ineffective (Compliance Theater).
 
